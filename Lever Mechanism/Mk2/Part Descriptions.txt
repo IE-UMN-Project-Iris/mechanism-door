@@ -1,0 +1,16 @@
+I decided to go with a design that will combine both 3D printed
+parts and laser cutted parts. For this reason I included a list
+of which part is which. Note that the 3D printed parts will be 
+saved as an .stl file and the laser cutted parts will be saved
+with as a .dfx file. The parts are as follow:
+
+-Back panel (Laser cutted)
+-Doors (Laser cutted)
+-Electronics Bay Base (Laser cutted)
+-Front panel (Laser cutted)
+-Gear (3D Printed)
+-Lever (3D Printed)
+-Lever Hinge (3D printed)
+-Side Supports (laser cutted)
+-Supports Bottom (laser cutted)
+-Supports Top (laser cutted)
